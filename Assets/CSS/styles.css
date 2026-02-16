@@ -526,11 +526,55 @@ img {
 }
 
 .skills__java {
+  width: 60%;
+}
+
+.skills__macos {
   width: 80%;
 }
 
-.skills__python {
+.skills__pytest {
+  width: 65%;
+}
+
+.skills__sentry {
   width: 85%;
+}
+
+.skills__prometheus {
+  width: 70%;
+}
+
+.skills__elastic {
+  width: 70%;
+}
+
+.skills__rabbitmq {
+  width: 90%;
+}
+
+.skills__celery {
+  width: 35%;
+}
+
+.skills__mongo {
+  width: 85%;
+}
+
+.skills__mysql {
+  width: 75%;
+}
+
+.skills__gunicorn {
+  width: 80%;
+}
+
+.skills__springboot {
+  width: 60%;
+}
+
+.skills__linux {
+  width: 75%;
 }
 
 .skills__postgresql {
@@ -539,6 +583,18 @@ img {
 
 .skills__redis {
   width: 80%;
+}
+
+.skills__python {
+  width: 80%;
+}
+
+.skills__flask {
+  width: 80%;
+}
+
+.skills__django {
+  width: 60%;
 }
 
 .skills__docker {
