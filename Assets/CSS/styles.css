@@ -601,6 +601,14 @@ img {
   width: 80%;
 }
 
+.skills__english {
+  width: 80%;
+}
+
+.skills__turkish {
+  width: 100%;
+}
+
 .skills__kubernetes {
   width: 60%;
 }
